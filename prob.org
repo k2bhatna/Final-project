@@ -1,0 +1,25 @@
+* Conservatism in a probability task 
+
+** Group Members 
+   1. Burak Aksoy 
+   2. Jason Deichert 
+   3. Kartiki Bhatnagar 
+
+** Introduction
+Bayesian probability is an interpretation of the concept of probability, in which, instead of frequency or propensity of some phenomenon, probability is interpreted as reasonable expectation representing a state of knowledge or as quantification of a personal belief.
+
+** Method
+*** Participants 
+There were a total of __ participants that were randonly selected from the course PSYCH 363 in University of Waterloo. 
+
+*** Apparatus 
+A laptop, desk and chair was used to conduct the experiment
+
+*** Procedure 
+Participants were brought in and asked to read the instructions presented on the computer. The instructions read " " and the probablity of which side the ball is chosen from his guessed by the participant. The trials are done thrice followed by the data being saved in the computer. 
+
+** Results 
+
+** Discussion 
+
+** Bibliography 
